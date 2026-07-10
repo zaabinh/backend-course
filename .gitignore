@@ -2,3 +2,4 @@
 out
 .vscode
 .mvn
+lesson2/email-service/src/main/resources/application.properties
